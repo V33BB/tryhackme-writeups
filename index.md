@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # 🐍 TryHackMe Writeups (Redacted)
 
 Redacted cybersecurity lab reports & notes from my progress on [TryHackMe](https://tryhackme.com).
