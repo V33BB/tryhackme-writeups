@@ -28,7 +28,6 @@
 
 - **Room:** TryHackMe Pyrat
 - **Author:** [V33BB](https://github.com/V33BB)
-- **Style:** Pirate + Hacker. No mercy. No screenshots. All walkthrough.
 - **Walkthrough:** [🐍 TryHackMe Pyrat – Full Walkthrough (redacted).md](🐍%20TryHackMe%20Pyrat%20–%20Full%20Walkthrough%20(redacted).md)
 
 ---
