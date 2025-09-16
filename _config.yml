@@ -1,0 +1,15 @@
+title: V33BB | Writeups
+description: Redacted cybersecurity lab reports and notes. Focused on methodology, problem-solving, and learning outcomes.
+theme: jekyll-theme-hacker
+
+# If this is a project site (NOT username.github.io), uncomment these:
+# url: "https://V33BB.github.io"
+# baseurl: "/writeups"  # <- change to your repo name
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: show links in the GitHub Pages footer
+github:
+  is_project_page: true
