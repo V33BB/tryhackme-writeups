@@ -1,74 +1,87 @@
-# 🏴‍☠️ Pyrat – TryHackMe Writeup
+# 🏴‍☠️🐍 TryHackMe: Pyrat [Hacker Edition]
 
 ```
-  ____        _         _      
- |  _ \ _   _| |_ _   _| |_    
- | |_) | | | | __| | | | __|   
- |  __/| |_| | |_| |_| | |_    
- |_|    \__,_|\__|\__,_|\__|   
-    PYRAT | TryHackMe          
+      .-'''''-.
+     /  .-.-.  \
+     | | | | | |   __      __
+     | | | | | |  /  \    /  \
+     \  '-'  /   \ () \/\/ ()/
+      '-._.-'     \__/\/\/\__/
+   _  _      _   _     _   _
+  | || |    | | | |   | | | |
+  | || |__  | |_| |__ | |_| |__
+  |__   _/  |  _  / _ \|  _  / _ \
+     | |    | | | \__  | | | \__  |
+     |_|    |_| |_|   |_| |_|   |_|
+          P Y R A T  |  T H M
+
+    // Hack the box. Steal the flag. //
 ```
 
-![Pyrat Banner](Screenshot_2025-09-16_132230.png)
-
-![Repo Size](https://img.shields.io/github/repo-size/V33BB/tryhackme-writeups?style=for-the-badge)
-![License](https://img.shields.io/github/license/V33BB/tryhackme-writeups?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/V33BB/tryhackme-writeups?style=for-the-badge)
+[![Repo Size](https://img.shields.io/github/repo-size/V33BB/tryhackme-writeups?color=green&logo=github&style=flat-square)](https://github.com/V33BB/tryhackme-writeups)
+[![License](https://img.shields.io/github/license/V33BB/tryhackme-writeups?color=blue&style=flat-square)](../LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/V33BB/tryhackme-writeups?color=ff69b4&style=flat-square)](https://github.com/V33BB/tryhackme-writeups/commits/main)
 
 ---
 
-## 🚩 Overview
+## 🕶️ TL;DR
 
-Welcome to the **Pyrat** writeup, part of the TryHackMe series by [V33BB](https://github.com/V33BB).
-
-This folder contains a full walkthrough, screenshots, and tips for completing the Pyrat room.  
-Unlock flags, escalate privileges, and hack like a pirate! 🏴‍☠️🐍
-
----
-
-## 📑 Table of Contents
-
-- [Full Walkthrough](🐍%20TryHackMe%20Pyrat%20–%20Full%20Walkthrough%20(redacted).md)
-- [Screenshots Gallery](#screenshots-gallery)
-- [Contributing](CONTRIBUTING.md)
-- [License](../LICENSE)
+- **Room:** TryHackMe Pyrat
+- **Author:** [V33BB](https://github.com/V33BB)
+- **Style:** Pirate + Hacker. No mercy. No screenshots. All walkthrough.
+- **Walkthrough:** [🐍 TryHackMe Pyrat – Full Walkthrough (redacted).md](🐍%20TryHackMe%20Pyrat%20–%20Full%20Walkthrough%20(redacted).md)
 
 ---
 
-## 🐍 Full Walkthrough
+## 💻 Contents
 
-Read the step-by-step guide:  
-[🐍 TryHackMe Pyrat – Full Walkthrough (redacted).md](🐍%20TryHackMe%20Pyrat%20–%20Full%20Walkthrough%20(redacted).md)
-
----
-
-## 🖼️ Screenshots Gallery
-
-| Step                   | Screenshot                                  |
-|------------------------|---------------------------------------------|
-| Recon                  | ![Recon](Screenshot_2025-09-16_120634.png) |
-| Enumeration            | ![Enum](Screenshot_2025-09-16_122703.png)  |
-| Exploitation           | ![Exploit](Screenshot_2025-09-16_123941.png)|
-| Privilege Escalation   | ![Privesc](Screenshot_2025-09-16_125545.png)|
-| Rooted                 | ![Root](Screenshot_2025-09-16_130123.png)  |
-| Post-Exploit           | ![Post-Exploit](Screenshot_2025-09-16_131405.png)|
-| Flags                  | ![Flags](Screenshot_2025-09-16_132230.png) |
+- Full step-by-step pwnage
+- Tips, tricks, and gotchas
+- Flag locations and escalation methods
+- Zero fluff, max shell
 
 ---
 
-## 🦜 Contributing
+## 🚨 How to Use
 
-Want to add tips, screenshots, or corrections? See [CONTRIBUTING.md](CONTRIBUTING.md).
+Clone, read, hack, win.
+
+```bash
+git clone https://github.com/V33BB/tryhackme-writeups
+cd tryhackme-writeups/pyrat
+cat 🐍\ TryHackMe\ Pyrat\ –\ Full\ Walkthrough\ \(redacted\).md
+```
 
 ---
 
-## ⚓ Credits
+## 🦑 Contribute
 
-- Writeup & hacking by [V33BB](https://github.com/V33BB)
-- Room: [TryHackMe Pyrat](https://tryhackme.com/room/pyrat)
+Want to improve the writeup, correct something, or add leet tips?  
+- Fork it.
+- Edit it.
+- Pull request it.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## 📬 Contact
+## ☠️ Credits
 
-Open an issue or reach out via [GitHub](https://github.com/V33BB) for feedback!
+- **Writeup:** [V33BB](https://github.com/V33BB)
+- **Platform:** [TryHackMe: Pyrat](https://tryhackme.com/room/pyrat)
+- **Inspiration:** Hackers, Pirates, Rebels
+
+---
+
+## 📢 Contact
+
+Open an issue or send a message on [GitHub](https://github.com/V33BB).
+
+---
+
+> “The quieter you become, the more you are able to hear.”  
+> — Kali Linux terminal
+
+---
+
+# Hack the planet 🌐
